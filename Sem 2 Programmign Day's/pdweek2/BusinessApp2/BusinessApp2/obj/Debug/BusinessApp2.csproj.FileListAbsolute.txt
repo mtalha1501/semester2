@@ -1,0 +1,14 @@
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\bin\Debug\BusinessApp2.exe.config
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\bin\Debug\BusinessApp2.exe
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\bin\Debug\BusinessApp2.pdb
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.csproj.AssemblyReference.cache
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.csproj.CoreCompileInputs.cache
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.exe
+D:\My CS\Semester 2\OOP\Lab 2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.pdb
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.csproj.AssemblyReference.cache
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.csproj.CoreCompileInputs.cache
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.exe
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\obj\Debug\BusinessApp2.pdb
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\bin\Debug\BusinessApp2.exe.config
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\bin\Debug\BusinessApp2.exe
+D:\My CS\Semester 2\PD's\Sem 2 Programmign Day's\pdweek2\BusinessApp2\BusinessApp2\bin\Debug\BusinessApp2.pdb

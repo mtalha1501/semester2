@@ -1,0 +1,7 @@
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\bin\Debug\BusinessApplication1.exe.config
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\bin\Debug\BusinessApplication1.exe
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\bin\Debug\BusinessApplication1.pdb
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\obj\Debug\BusinessApplication1.csproj.AssemblyReference.cache
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\obj\Debug\BusinessApplication1.csproj.CoreCompileInputs.cache
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\obj\Debug\BusinessApplication1.exe
+D:\My CS\Semester 2\PD's\pdweek1\BusinessApplication\BusinessApplication1\BusinessApplication1\obj\Debug\BusinessApplication1.pdb
