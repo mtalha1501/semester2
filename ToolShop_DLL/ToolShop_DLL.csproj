@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0854CF85-406D-4C94-A44C-D9AC09725B3B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ToolShop_DLL</RootNamespace>
+    <AssemblyName>ToolShop_DLL</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BL\Manager.cs" />
+    <Compile Include="BL\Cart.cs" />
+    <Compile Include="BL\Customer.cs" />
+    <Compile Include="BL\Tool.cs" />
+    <Compile Include="BL\User.cs" />
+    <Compile Include="DL\DB\CartDB.cs" />
+    <Compile Include="DL\DB\CustomerDB.cs" />
+    <Compile Include="DL\DB\DbConnConfig.cs" />
+    <Compile Include="DL\DB\ManagerDB.cs" />
+    <Compile Include="DL\DB\ToolDB.cs" />
+    <Compile Include="DL\DB\UserDB.cs" />
+    <Compile Include="DL\ToolDL.cs" />
+    <Compile Include="DL\UserDL.cs" />
+    <Compile Include="Interfaces\I_Cart.cs" />
+    <Compile Include="Interfaces\I_Customer.cs" />
+    <Compile Include="Interfaces\I_Manager.cs" />
+    <Compile Include="Interfaces\I_Tool.cs" />
+    <Compile Include="Interfaces\I_User.cs" />
+    <Compile Include="Interfaces\UtilityUI.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Utilities\Validations.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="DL\FH\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

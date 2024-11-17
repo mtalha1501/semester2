@@ -1,0 +1,12 @@
+D:\My CS\Semester 2\OOP Sem Projects\New Work\ToolShop_DLL\bin\Debug\ToolShop_DLL.dll
+D:\My CS\Semester 2\OOP Sem Projects\New Work\ToolShop_DLL\bin\Debug\ToolShop_DLL.pdb
+D:\My CS\Semester 2\OOP Sem Projects\New Work\ToolShop_DLL\obj\Debug\ToolShop_DLL.csproj.AssemblyReference.cache
+D:\My CS\Semester 2\OOP Sem Projects\New Work\ToolShop_DLL\obj\Debug\ToolShop_DLL.csproj.CoreCompileInputs.cache
+D:\My CS\Semester 2\OOP Sem Projects\New Work\ToolShop_DLL\obj\Debug\ToolShop_DLL.dll
+D:\My CS\Semester 2\OOP Sem Projects\New Work\ToolShop_DLL\obj\Debug\ToolShop_DLL.pdb
+G:\My CS\Semester 2\OOP Sem Projects\Final Project\ToolShop_DLL\bin\Debug\ToolShop_DLL.dll
+G:\My CS\Semester 2\OOP Sem Projects\Final Project\ToolShop_DLL\bin\Debug\ToolShop_DLL.pdb
+G:\My CS\Semester 2\OOP Sem Projects\Final Project\ToolShop_DLL\obj\Debug\ToolShop_DLL.csproj.AssemblyReference.cache
+G:\My CS\Semester 2\OOP Sem Projects\Final Project\ToolShop_DLL\obj\Debug\ToolShop_DLL.csproj.CoreCompileInputs.cache
+G:\My CS\Semester 2\OOP Sem Projects\Final Project\ToolShop_DLL\obj\Debug\ToolShop_DLL.dll
+G:\My CS\Semester 2\OOP Sem Projects\Final Project\ToolShop_DLL\obj\Debug\ToolShop_DLL.pdb
